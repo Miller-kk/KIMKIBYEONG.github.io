@@ -4,30 +4,19 @@ title: About Monochrome
 description: This page describes monochrome.
 ---
 ## About
-Monochrome is a minimal, responsive theme created for Jekyll. The goal of Monochrome is to provide a ready to use, plug and play theme for those who want to set up a blog, and focus solely on the content.
+Security와 BlockChain에 관한 Project들과 Research 자료들을 공유하기위한 블로그입니다.<br/>
+Interview의 배너에서는 Security와 BlockChain 업계에서 관련있으신분들을 꾸준히 인터뷰를하여 업로드할 입니다.<br/>
+Reserch의 배너에서는 개인적으로 진행하고있는 Project들과 Research 자료들을 업로드 예정입니다.<br/>
+Interview 요청이나 개선사항들은 <kkcd001@naver.com> 으로 보내주시길바랍니다.<br/>
 
-## Features
-
-- Completely responsive and mobile first
-- Clean SEO friendly URLs, auto-generated from post title (no messy dates in the url)
-- SEO title/description integration
-- Sitemap ready
-- Easy customization for header, footer, navigation links, colors, favicon etc
-- Default Monochrome Color Palette - black, white, greys
-
-### Setup
-
-Monochrome may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/thereviewindex/monochrome/archive/master.zip).
-
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/monochrome/`` and you will find it there.
-
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Monochrome in the root. 
-
-
-
-For further details on Monochrome, please visit the [repository on Github](https://github.com/thereviewindex/monochrome/).
-
-![Monochrome](img/monochrome01.png "monochrome")
-
+## Who are you ?
+- NicName: Miller-K 
+- Age: Secret
+- interesting: CTF(Capture The Flag), BlockChain
+- Hobby : Street Dance
+<br/>
+블로그 주인장을 소개하자면 위에 나와있듯이 개인적으로 인터넷에서 자주쓰는 닉네임은 Miller-K이며, 성격은 굉장히 모험적이고 호기심이많다.
+정보보안에 관심을 많이두고 있으며, 컴퓨터와 관련있는 것들은 전부다(?) 만져보고싶어한다. 본의아니게 풀스택개발자를 지향하고 있고, 사람들과 어울리기를
+좋아한다.
 
 
