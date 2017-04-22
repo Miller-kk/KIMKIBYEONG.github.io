@@ -4,7 +4,7 @@ description: How to make private blockchain
 header: BlockChain Application 구축하기
 ---
 ## Web3.js로 웹 어플리케이션을 만들기 위한 환경 구축하기
->> 방법이 여러 가지가 있어서 여러 가지 방법으로 설명하겠습니다.
+방법이 여러 가지가 있어서 여러 가지 방법으로 설명하겠습니다.
   1. https://github.com/ethereum/web3.js 에서 dist에 있는 web3.js를 따로 작업하는 폴더에 다운받아서 HTML 작업 시에 자바스크립트 src로 참조를     해서 스크립트 작성을 한다.
   2. node.js로 환경구축 시 node.js 명령 프롬프트를 켜서 npm install web3를 쳐서 install
   을 쳐서 web3.js를 다운받아 환경 구축을 한다.
