@@ -3,7 +3,7 @@ title: Private BlockChain
 description: How to make private blockchain
 header: BlockChain Application 구축하기
 ---
-# Web3.js로 웹 어플리케이션을 만들기 위한 환경 구축하기
+## Web3.js로 웹 어플리케이션을 만들기 위한 환경 구축하기
 방법이 여러 가지가 있어서 여러 가지 방법으로 설명하겠습니다.
 1. https://github.com/ethereum/web3.js 에서 dist에 있는 web3.js를 따로 작업하는 폴더에 다운받아서 HTML 작업 시에 자바스크립트 src로 참조를 해서 스크립트 작성을 한다.
 2. node.js로 환경구축 시 node.js 명령 프롬프트를 켜서 npm install web3를 쳐서 install
@@ -11,7 +11,7 @@ header: BlockChain Application 구축하기
 ( Git 설치 필수입니다 !! )
 3. bower로 install 시에 bower install --save web3 명령어를 이용하여 web3.js를
 다운받아 환경 구축을 한다.
-# GETH(Go-ethereum) 환경 구축
+## GETH(Go-ethereum) 환경 구축
 참조 사이트 : [Building Ethereum](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum)
 1. Private Network 구축을 위해서는 Geth(Go-Ethereum)이 필요한데, Geth 인스톨 시
 다양한 환경이 존재합니다. 여기서는 VMware로 돌리는 ubuntu linux 환경의 기준으로
@@ -54,7 +54,7 @@ header: BlockChain Application 구축하기
 	make geth
 	```
 5. 이제 build/bin/geth를 실행해서 당신의 노드를 시작한다
-# 본격 Private Network / Block Chain 만들기 및 ETHER 전송
+## 본격 Private Network / Block Chain 만들기 및 ETHER 전송
 1. genesis block을 만들기 위해 양식에 맞게 json 파일을 만든다.
 	* genesis.json 기본 양식
 	```
@@ -80,7 +80,8 @@ header: BlockChain Application 구축하기
 ( 파일 이름이 genesis.json이라고 가정하자 )
 4. 본격적으로 Geth로 Private Network 구축을 위해 명령어를 넣어줍니다.
 	```
-	$ geth --rpc --rpcaddr "자신의 ip 주소" --rpcport "http 포트번호" --port "Listening Port번호" --rpccorsdomain "*" --nodiscover console
+	$ geth --rpc --rpcaddr "자신의 ip 주소" --rpcport "http 포트번호" --port "Listening Port번호" 
+	--rpccorsdomain "*" --nodiscover console
 	```
 	--rpc : 당신의 노드가 RPC interface를 사용하도록 합니다.
 	--rpcapi "db,eth,net,web3": RPC에 접근하게 허가하는 api를 지정합니다. (default는 db,eth,net,web3. miner가 필요한 경우에는 추가.)
@@ -120,4 +121,6 @@ https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console#personalnewaccou
 https://github.com/ethereum/go-ethereum/wiki/Managing-your-accounts
 3.
 https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/private-chain.html
+
+**이 글을 출처없이 무단 배포 시에 문제가 될 수 있음을 경고합니다.**
 
