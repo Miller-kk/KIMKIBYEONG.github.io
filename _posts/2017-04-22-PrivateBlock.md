@@ -115,7 +115,7 @@ header: BlockChain Application 구축하기
 10. 잘 전송이 되었다면 다시 한번 최종 mining을 해줍니다.
 11. 전송 완료 !!
 <br/>
-참조사이트<br/>
+### 참조사이트<br/>
 1.
 https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console#personalnewaccount<br/>
 2.
