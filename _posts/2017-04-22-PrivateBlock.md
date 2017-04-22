@@ -114,11 +114,12 @@ header: BlockChain Application 구축하기
 9. 콘솔창에 eth 명령을 통해서 transaction이 잘 전송되었는지 확인 합니다.
 10. 잘 전송이 되었다면 다시 한번 최종 mining을 해줍니다.
 11. 전송 완료 !!
-참조 사이트
+<br/>
+참조사이트<br/>
 1.
-https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console#personalnewaccount
+https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console#personalnewaccount<br/>
 2.
-https://github.com/ethereum/go-ethereum/wiki/Managing-your-accounts
+https://github.com/ethereum/go-ethereum/wiki/Managing-your-accounts<br/>
 3.
 https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/private-chain.html
 
