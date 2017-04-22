@@ -1,8 +1,8 @@
---
+---
 title: Private BlockChain
 description: How to make private blockchain
 header: BlockChain Application 구축하기
---
+---
 thereum Ether 전송하는 웹 어플리케이션 만드는 순서
 # Web3.js로 웹 어플리케이션을 만들기 위한 환경 구축하기
 방법이 여러 가지가 있어서 여러 가지 방법으로 설명하겠습니다.
