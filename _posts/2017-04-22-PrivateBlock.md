@@ -116,9 +116,9 @@ header: BlockChain Application 구축하기
 11. 전송 완료 !!
 <br/>
 ### 참조사이트<br/>
-> 1.https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console#personalnewaccount<br/>
-2.https://github.com/ethereum/go-ethereum/wiki/Managing-your-accounts<br/>
-3.https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/private-chain.html
+> https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console#personalnewaccount<br/>
+https://github.com/ethereum/go-ethereum/wiki/Managing-your-accounts<br/>
+https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/private-chain.html
 
 **이 글을 출처없이 무단 배포 시에 문제가 될 수 있음을 경고합니다.**
 
