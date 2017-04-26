@@ -177,7 +177,7 @@ blockquote {
     /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */ }
 
   blockquote {
-    font-style: italic;
+    font-style: inherit;
     margin: 1.3334em;
     /* 24px/18px */
     -webkit-border-radius: 4px;
