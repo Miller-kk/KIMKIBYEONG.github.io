@@ -1,3 +1,9 @@
+---
+title: Blockchain solution
+description: Blockchain solution
+header: 스마트 컨트렉트를 이용한 SQL 
+---
+
 ## 프롤로그  
 
 최근의 문제가 되고있는 SQL injection을 Blockchain을 이용하여 솔루션을 내면 어떨까하고 논문을 준비 중에 있는데, 블로그에도 올려서 사람들과 의견을 나눈다면 더욱 좋을꺼같아서 이렇게 올리게되네요 ㅎㅎ ( 사실 블로그가 점점 재밌어지고있음 )  
