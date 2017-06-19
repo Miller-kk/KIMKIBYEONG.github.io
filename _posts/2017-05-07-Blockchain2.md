@@ -25,7 +25,7 @@ Blockchain 0.0의 단계는 1화에서 설명드린 비트코인의 공개 장�
 ![Coin](./Coin.png)  
 **Bitcoin에 이어서 수 없이 파생되어 나온 많은 암호화폐(Coin)들**
 
-##Blockchain 1.0  
+## Blockchain 1.0  
 Blockchain 1.0의 단계에서는 단순히 금융 기록을 남기는 장부의 형태로만 Blockchain을 사용하기엔 아쉬운 점들이 많았습니다. 왜냐하면 데이터에 대한 위/변조 가능성에 대한 문제는 대부분의 산업들에게 고질적인 문제였기때문이죠. 최근에 정보 유출과 관련된 사건/사고들이 상당히 많았습니다. 그에 대한 이유들은 흔히들 말하는 중앙 집중형 보관방식, 즉 데이터베이스 보안에 관해서 많이들 언급을 합니다. 이와같이 한 곳에 데이터를 모아두니 관리는 쉬우나 해킹에 한번 노출이 되게 되면 모든 데이터가 날아가는 문제라던지, 데이터의 기밀성을 유지 하기가 여간 쉽지않았습니다.  
 > 이러한 중요한 정보들의 변조의 가능성을 불가능에 가깝게 만든다면 ??
 
@@ -41,7 +41,7 @@ Blockchain 1.0의 단계에서는 단순히 금융 기록을 남기는 장부의
 ![Blockchain1](./Blockchain1.png)  
 **Blockchain 1.0 메커니즘**  
 
-##Blockchain 2.0  
+## Blockchain 2.0  
 Blockchain 2.0부터는 조금 흥미 진진해집니다. 그 이유는 바로 ! Blockchain에 정보를 넣는 형태가 아닌 이제는 프로그래밍을 할 수 있는 Code가 들어간다는 거죠 !  
 > Block에 Programming Languager가 들어간다는 개념은 Block에 일을 하는 사람이 들어간다는 개념과 동일하다.  
 
@@ -58,7 +58,7 @@ Blockchain 2.0부터는 조금 흥미 진진해집니다. 그 이유는 바로 !
 출처:<http://www.etoday.co.kr/news/section/newsview.php?idxno=1493984>  
 **Blockchain 2.0에 뛰어들기 시작하는 대기업들 ( 삼성도 동참 )**
 
-##Blockchain 3.0  
+## Blockchain 3.0  
 Blockchain 3.0부터는 제가 2.0까지 IBM에서 쓰던 용어를 한 단계 발전시켜 만든 용어입니다. ( 지극히 개인적인 주관으로 발전 3.0을 썼다는 점 참고해주세요. ) 2.0까지는 각각의 Chain들 하나하나에 집중을 했었다면 3.0부터는 Chain들의 연결성( Connection )에  집중을 하기 시작합니다. 최근에 권위 있는 단체인 R3에서 Blockchain 2.0의 선두 주자로 달리고있는 Ethereum의 개발자 Vitalic이 발표한 자료인 Chain interoperability의 문서에서 언급되었으며, Blockchian을 더 이상 단일한 chain으로 제 각각 사용하지말고 chain들끼리 유기적으로 연결될 수 있도록 호환성을 높여보자는 시도입니다. Blockchain 들이 기반으로 하고 있는 프로그램들이 제각각 틀린 탓에 Blockchain들끼리 유기적으로 연결한다던지 함께 호환성을 높여서 작동을 하기가 쉽지않습니다. 하지만 interoperability 문서에서 언급된 이후로 미국 cornell 대학교 Blockchain 랩실에서는 Chain들 간의 유기적으로 연결할 수 있는 알고리즘을 연구하고 있으며, init이라고 하는 세계 Blockchain 연구 단체도 chain들 간의 호환성을 높일 수 있는 방법을 연구하기 시작하고 있습니다.  
 > Chain들간의 연결이 가지는 의미 ? meaning ?  
 
